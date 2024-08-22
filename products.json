@@ -10,5 +10,95 @@
         "name": "AMLODIPINE BESYLATE 2.5MG TABS",
         "quantity": "20",
         "price": "30"
+    },
+    {
+        "code": "039",
+        "name": "AMLODIPINE BESYLATE 5MG TABS",
+        "quantity": "20",
+        "price": "30"
+    },
+    {
+        "code": "049",
+        "name": "ATENOLOL 25MG TABS",
+        "quantity": "30",
+        "price": "60"
+    },
+    {
+        "code": "059",
+        "name": "ATENOLOL 50MG TABS",
+        "quantity": "30",
+        "price": "60"
+    },
+    {
+        "code": "069",
+        "name": "BENAZEPRIL 10MG TABS / BENAZEPRIL 20MG TABS / BENAZEPRIL 40MG TABS / BENAZEPRIL 5MG TABS",
+        "quantity": "30",
+        "price": "50"
+    },
+    {
+        "code": "079",
+        "name": "CARVEDILOL 12.5MG TABS",
+        "quantity": "15",
+        "price": "14"
+    },
+    {
+        "code": "089",
+        "name": "CARVEDILOL 25MG TABS",
+        "quantity": "33",
+        "price": "34"
+    },
+    {
+        "code": "099",
+        "name": "CARVEDILOL 3.125MG TABS / CARVEDILOL 6.25MG TABS",
+        "quantity": "29",
+        "price": "66"
+    },
+    {
+        "code": "119",
+        "name": "LISINOPRIL-HCTZ 20/25MG TABS",
+        "quantity": "23",
+        "price": "28"
+    },
+    {
+        "code": "129",
+        "name": "METOPROLOL TARTRATE 25MG TABS",
+        "quantity": "6",
+        "price": "45"
+    },
+    {
+        "code": "139",
+        "name": "SPIRONOLACTONE 25MG TABS",
+        "quantity": "12",
+        "price": "27"
+    },
+    {
+        "code": "149",
+        "name": "WARFARIN SOD 7.5MG TABS (YELLOW)",
+        "quantity": "1",
+        "price": "21"
+    },
+    {
+        "code": "159",
+        "name": "TORSEMIDE 20MG TABS",
+        "quantity": "23",
+        "price": "55"
+    },
+    {
+        "code": "189",
+        "name": "FUROSEMIDE 10MG/ML ORAL SOLN 60ML",
+        "quantity": "0",
+        "price": "58"
+    },
+    {
+        "code": "179",
+        "name": "RAMIPRIL 1.25MG CAPS",
+        "quantity": "0",
+        "price": "90"
+    },
+    {
+        "code": "567",
+        "name": "DOXAZOSIN 4MG TABS",
+        "quantity": "0",
+        "price": "88"
     }
 ]
