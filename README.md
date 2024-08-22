@@ -1,3 +1,5 @@
+# pharmacy_management_system
+
 pharmacy_management/
 │
 ├── app.py                 # Flask backend
