@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    text-align: center;
+    color: #333;
+}
+
+.form-container {
+    margin-bottom: 20px;
+}
+
+.search-container {
+    margin-bottom: 20px;
+}
+
+input, button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+button {
+    background-color: #5cb85c; /* Green button background */
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4cae4c; /* Darker green on hover */
+}
+
+.product-list ul, .out-of-stock ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.product-list li, .out-of-stock li {
+    background: #f9f9f9;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button.remove-button {
+    background-color: #d9534f; /* Red button for removal */
+    color: white;
+    padding: 4px 7px;
+    font-size: 0.4em;
+}
+
+button.remove-button:hover {
+    background-color: #c9302c; /* Darker red on hover */
+}
